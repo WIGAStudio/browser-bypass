@@ -1,0 +1,27 @@
+{
+  "name": "browser-bypass",
+  "version": "1.0.0",
+  "description": "Browser automation detectection bypasser suite",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WIGAStudio/browser-bypass.git"
+  },
+  "keywords": [
+    "browser-bypass"
+  ],
+  "author": "Wiz64 & Allory D.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WIGAStudio/browser-bypass/issues"
+  },
+  "homepage": "https://github.com/WIGAStudio/browser-bypass#readme",
+  "dependencies": {
+    "puppeteer": "^21.7.0",
+    "puppeteer-core": "^21.7.0",
+    "socket.io-client": "^4.7.3"
+  }
+}
